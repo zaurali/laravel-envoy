@@ -12,7 +12,7 @@
             "email": "luka@sikic.eu"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "local",
     "autoload": {
         "psr-4": {
             "Luka\\Envoy\\": "src/"
